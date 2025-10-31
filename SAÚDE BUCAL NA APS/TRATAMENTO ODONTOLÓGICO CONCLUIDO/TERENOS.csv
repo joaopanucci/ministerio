@@ -1,0 +1,24 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 14 de outubro de 2025 - 08:15h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500800 / TERENOS
+
+Filtro:
+Indicador: Tratamento Odontológico concluído na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PESSOAS COM TRATAMENTO ODONTOLÓGICO CONCLUÍDO;NÚMERO DE PESSOAS COM A PRIMEIRA CONSULTA ODONTOLÓGICA PROGRAMADA REALIZADA;PONTUAÇÃO
+"5337135";"ESF VILA JAMIL";"POSTO DE SAUDE";"0001800957";"EQUIPE SB JAMIL";"eSB";"259";"0";"0,00"
+"2676559";"ESF VILA FERREIRA";"POSTO DE SAUDE";"0001800639";"EQUIPE SB FERREIRA";"eSB";"219";"0";"0,00"
+"5045789";"ESF PATAGONIA";"POSTO DE SAUDE";"0001780301";"EQUIPE SB PATAGONIA";"eSB";"184";"0";"0,00"
+"5529182";"ESF SANTA MONICA";"POSTO DE SAUDE";"0001794973";"EQUIPE SB SANTA MONICA";"eSB";"63";"0";"0,00"
+"7015283";"ESF JAMIC";"POSTO DE SAUDE";"0001793314";"EQUIPE SB JAMIC";"eSB";"160";"0";"0,00"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 10 de outubro de 2025 - 11:17h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500025 / ALCINÓPOLIS
+
+Filtro:
+Indicador: Mais Acesso à Atenção Primária à Saúde
+Competência selecionada: AGO/25
+Tipo de Equipe: eAP, eSF
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO TOTAL DE ATENDIMENTOS POR DEMANDA PROGRAMADA;NÚMERO TOTAL DE ATENDIMENTOS POR TODOS OS TIPOS DE DEMANDAS (ESPONTÂNEAS E PROGRAMADAS);PONTUAÇÃO
+"2659638";"UNIDADE PSF DE ALCIONOPOLIS";"CENTRO DE SAUDE/UNIDADE BASICA";"0000437662";"URBANA";"eSF";"1008";"4357";"23,14"
+"2659611";"UNIDADE BASICA DE SAUDE DE ALCINOPOLIS";"CENTRO DE SAUDE/UNIDADE BASICA";"0002124629";"URBANA";"eAP";"364";"1354";"26,88"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

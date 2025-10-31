@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mapa de Indicadores do Mato Grosso do Sul - Secretaria de Estado de Saúde">
+    <title>Mapa de Indicadores - MS</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f7f9fb;
+            color: #333;
+        }
+        .loading-container {
+            text-align: center;
+            padding: 2rem;
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #e0e0e0;
+            border-top: 4px solid #009688;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="loading-container">
+        <div class="spinner"></div>
+        <h1>Mapa de Indicadores - MS</h1>
+        <p>Carregando aplicação...</p>
+        <noscript>
+            <p style="color: #d32f2f;">
+                JavaScript é necessário para executar esta aplicação.
+                <br>
+                <a href="./src/html/filtros.html" style="color: #009688;">Clique aqui para continuar</a>
+            </p>
+        </noscript>
+    </div>
+    
+    <script>
+        // Pequeno delay para mostrar o loading
+        setTimeout(function() {
+            window.location.href = "./src/html/filtros.html";
+        }, 1000);
+    </script>
+</body>
+</html>

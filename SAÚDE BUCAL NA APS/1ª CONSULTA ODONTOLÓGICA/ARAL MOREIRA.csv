@@ -1,0 +1,23 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 15:35h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500124 / ARAL MOREIRA
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"7139470";"ESF VALDIR PAULO SOLIGO";"CENTRO DE SAUDE/UNIDADE BASICA";"0002056356";"ESB - UNIAO GUARANI";"eSB";"23";"2397";"1,00"
+"2591383";"ESF CIRILLO ROSSATI";"CENTRO DE SAUDE/UNIDADE BASICA";"0002110911";"ESB CIRILO ROSSATI";"eSB";"52";"2889";"1,80"
+"3276740";"ESF VISTA ALEGRE";"POSTO DE SAUDE";"0002107619";"ESB VISTA ALEGRE";"eSB";"0";"703";"0,00"
+"2591391";"ESF ELIANA FERREIRA MACHADO";"CENTRO DE SAUDE/UNIDADE BASICA";"0002055317";"ESB - ELIANA FERREIRA MACHADO";"eSB";"27";"1142";"2,40"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

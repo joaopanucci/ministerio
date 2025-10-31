@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 16:00h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500640 / PEDRO GOMES
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"2376970";"UNIDADE SAUDE DA FAMILIA VILA MARCELINO";"CENTRO DE SAUDE/UNIDADE BASICA";"0002134446";"ESB VILA MARCELINO";"eSB";"44";"2365";"1,90"
+"2676885";"UNIDADE SAUDE DA FAMILIA DO CENTRO DE SAUDE";"CENTRO DE SAUDE/UNIDADE BASICA";"0002134454";"ESF CENTRO";"eSB";"24";"2865";"0,80"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Sistema de filtros para visualização de indicadores de saúde do Mato Grosso do Sul">
+  <meta name="keywords" content="saúde, indicadores, Mato Grosso do Sul, SES-MS">
+  <meta name="author" content="Secretaria de Estado de Saúde - MS">
+  <title>Filtros - Mapa de Indicadores do Mato Grosso do Sul</title>
+  <link rel="stylesheet" href="../css/filtros.css">
+</head>
+
+<body>
+  <!-- Seção principal do app -->
+  <main id="app">
+    <header class="container">
+      <h1>Mapa de Indicadores do Mato Grosso do Sul</h1>
+      <p>A Serviço da Secretaria de Estado de Saúde</p>
+    </header>
+
+    <section class="container" aria-labelledby="filtros-title">
+      <h2 id="filtros-title">Aplicação de Filtros</h2>
+
+      <form class="filters" id="filters-form">
+        <div class="form-group">
+          <label for="indicator-select">Selecione o Indicador:</label>
+          <select id="indicator-select" name="indicator" required>
+            <option value="">Selecione</option>
+            <option value="indicador-equipes">EQUIPES MULTIPROFISSIONAIS NA APS</option>
+            <option value="indicador-estrategias">ESTRATÉGIAS DE SAÚDE DA FAMÍLIA</option>
+            <option value="indicador-saude-bucal">SAÚDE BUCAL NA APS</option>
+          </select>
+        </div>
+
+        <div id="subindicator-container" class="form-group" style="display:none;">
+          <label for="subindicator-select">Selecione o Subindicador:</label>
+          <select id="subindicator-select" name="subindicator"></select>
+        </div>
+
+        <div class="form-group">
+          <label for="year-select">Selecione a competência:</label>
+          <select id="year-select" name="year" required>
+            <option value="08">Agosto de 2025</option>
+          </select>
+        </div>
+
+        <div class="button-group">
+          <button type="button" id="apply-filters">Aplicar Filtros</button>
+          <a id="go-to-map" href="mapa.html" role="button">Ir para o Mapa</a>
+        </div>
+      </form>
+    </section>
+
+    <section class="container" aria-labelledby="sobre-title">
+      <h2 id="sobre-title">Sobre o Mapa de Indicadores</h2>
+      <p>O Mapa de Indicadores do Mato Grosso do Sul é uma ferramenta interativa desenvolvida para fornecer informações detalhadas sobre diversos indicadores de saúde no estado. Ele permite que usuários explorem dados geográficos e estatísticos de maneira intuitiva, facilitando a análise e a tomada de decisões informadas.</p>
+
+      <h3>Funcionalidades Principais:</h3>
+      <ul>
+        <li>Visualização de indicadores de saúde por município.</li>
+        <li>Filtros personalizáveis para análise específica.</li>
+        <li>Gráficos e tabelas interativas para melhor compreensão dos dados.</li>
+        <li>Atualizações regulares com os dados mais recentes.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="footer-container">
+    <h2>Equipe de Desenvolvimento</h2>
+    <p>Este projeto foi desenvolvido por uma equipe dedicada da Secretaria de Estado de Saúde do Mato Grosso do Sul, comprometida em fornecer ferramentas tecnológicas que apoiem a saúde pública no estado.</p>
+
+    <h2>Colaboradores</h2>
+    <ul>
+      <li>João Paulo Panucci Bernardes - Desenvolvedor</li>
+      <li>Hellen Velasques - Gerente de Atenção Primária à Saúde</li>
+      <li>Geani Almeida - Coordenadora de Atenção Primária à Saúde</li>
+    </ul>
+
+    <p>Secretaria de Estado de Saúde de Mato Grosso do Sul.</p>
+  </footer>
+
+  <script src="../js/filtros.js" defer></script>
+</body>
+</html>

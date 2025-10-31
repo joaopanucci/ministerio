@@ -1,0 +1,396 @@
+{
+  "indicador": {
+    "codigo": "emulti-acoes",
+    "nome": "Ações Interprofissionais da eMulti",
+    "timestamp": "2025-10-30T22:18:05.243478"
+  },
+  "estatisticas": {
+    "total_municipios": 62,
+    "municipios_com_dados": 62,
+    "pontuacao_maxima": 75.0,
+    "pontuacao_minima": 0.0,
+    "pontuacao_media": 11.48709677419355
+  },
+  "dados_municipios": {
+    "265961": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "253644": {
+      "nome": "Nome não identificado",
+      "pontuacao": 2.9,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "543519": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.8,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271066": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237598": {
+      "nome": "Nome não identificado",
+      "pontuacao": 75.0,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "237636": {
+      "nome": "Nome não identificado",
+      "pontuacao": 3.2,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237621": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.6,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "567234": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.4,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "305192": {
+      "nome": "Nome não identificado",
+      "pontuacao": 25.9,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "756883": {
+      "nome": "Nome não identificado",
+      "pontuacao": 30.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "359820": {
+      "nome": "Nome não identificado",
+      "pontuacao": 23.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "002878": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.7,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "002885": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.6,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001023": {
+      "nome": "Nome não identificado",
+      "pontuacao": 8.5,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "328529": {
+      "nome": "Nome não identificado",
+      "pontuacao": 6.6,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "002434": {
+      "nome": "Nome não identificado",
+      "pontuacao": 24.9,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "944352": {
+      "nome": "Nome não identificado",
+      "pontuacao": 32.3,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "300569": {
+      "nome": "Nome não identificado",
+      "pontuacao": 20.4,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "673119": {
+      "nome": "Nome não identificado",
+      "pontuacao": 10.9,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "319827": {
+      "nome": "Nome não identificado",
+      "pontuacao": 3.5,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "710800": {
+      "nome": "Nome não identificado",
+      "pontuacao": 13.8,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "547837": {
+      "nome": "Nome não identificado",
+      "pontuacao": 14.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "702969": {
+      "nome": "Nome não identificado",
+      "pontuacao": 10.9,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "318246": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.5,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "259152": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "259151": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "259153": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "259148": {
+      "nome": "Nome não identificado",
+      "pontuacao": 2.3,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271104": {
+      "nome": "Nome não identificado",
+      "pontuacao": 20.3,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271112": {
+      "nome": "Nome não identificado",
+      "pontuacao": 7.1,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "323983": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.8,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271086": {
+      "nome": "Nome não identificado",
+      "pontuacao": 11.8,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271111": {
+      "nome": "Nome não identificado",
+      "pontuacao": 5.2,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271110": {
+      "nome": "Nome não identificado",
+      "pontuacao": 17.1,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271113": {
+      "nome": "Nome não identificado",
+      "pontuacao": 7.5,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271088": {
+      "nome": "Nome não identificado",
+      "pontuacao": 20.8,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237433": {
+      "nome": "Nome não identificado",
+      "pontuacao": 21.2,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253680": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "265148": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237435": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.4,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237439": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "262014": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271068": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "248254": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "678499": {
+      "nome": "Nome não identificado",
+      "pontuacao": 9.8,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "236142": {
+      "nome": "Nome não identificado",
+      "pontuacao": 10.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237602": {
+      "nome": "Nome não identificado",
+      "pontuacao": 2.4,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237425": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "300542": {
+      "nome": "Nome não identificado",
+      "pontuacao": 14.1,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271062": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237698": {
+      "nome": "Nome não identificado",
+      "pontuacao": 2.7,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "265155": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.4,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "099840": {
+      "nome": "Nome não identificado",
+      "pontuacao": 14.8,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "709124": {
+      "nome": "Nome não identificado",
+      "pontuacao": 2.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "745601": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.8,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "638749": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "267669": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237111": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "771772": {
+      "nome": "Nome não identificado",
+      "pontuacao": 65.5,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "560101": {
+      "nome": "Nome não identificado",
+      "pontuacao": 3.1,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "324005": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.2,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "259138": {
+      "nome": "Nome não identificado",
+      "pontuacao": 1.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    }
+  },
+  "cores_legenda": {
+    "muito_alto": "#2e7d32",
+    "alto": "#388e3c",
+    "medio": "#66bb6a",
+    "baixo": "#a5d6a7",
+    "muito_baixo": "#c8e6c9",
+    "sem_dados": "#e0e0e0"
+  }
+}

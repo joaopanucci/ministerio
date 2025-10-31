@@ -1,0 +1,22 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 14 de outubro de 2025 - 16:12h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500635 / PARANHOS
+
+Filtro:
+Indicador: Procedimentos Odontológicos preventivos na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PROCEDIMENTOS PREVENTIVOS INDIVIDUAIS REALIZADOS;NÚMERO TOTAL DE PROCEDIMENTOS ODONTOLÓGICOS PREVENTIVOS REALIZADOS NA APS;PONTUAÇÃO
+"2710587";"PROGRAMA DE SAUDE DA FAMILIA URBANO VILA NOVA";"CENTRO DE SAUDE/UNIDADE BASICA";"0002135582";"ESF VILA NOVA";"eSB";"1932";"3414";"56,60"
+"3005429";"PROGRAMA DE SAUDE DA FAMILIA URBANA CENTRO";"CENTRO DE SAUDE/UNIDADE BASICA";"0002135566";"ESF CENTRO";"eSB";"593";"1212";"48,90"
+"2710595";"PROGRAMA SAUDE DA FAMILIA RURAL";"CENTRO DE SAUDE/UNIDADE BASICA";"0002135574";"ESF RURAL";"eSB";"910";"1809";"50,30"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

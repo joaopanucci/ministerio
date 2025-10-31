@@ -1,0 +1,24 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 14 de outubro de 2025 - 16:20h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500800 / TERENOS
+
+Filtro:
+Indicador: Procedimentos Odontológicos preventivos na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PROCEDIMENTOS PREVENTIVOS INDIVIDUAIS REALIZADOS;NÚMERO TOTAL DE PROCEDIMENTOS ODONTOLÓGICOS PREVENTIVOS REALIZADOS NA APS;PONTUAÇÃO
+"5337135";"ESF VILA JAMIL";"POSTO DE SAUDE";"0001800957";"EQUIPE SB JAMIL";"eSB";"315";"1695";"18,60"
+"2676559";"ESF VILA FERREIRA";"POSTO DE SAUDE";"0001800639";"EQUIPE SB FERREIRA";"eSB";"296";"2210";"13,40"
+"5045789";"ESF PATAGONIA";"POSTO DE SAUDE";"0001780301";"EQUIPE SB PATAGONIA";"eSB";"164";"1873";"8,80"
+"5529182";"ESF SANTA MONICA";"POSTO DE SAUDE";"0001794973";"EQUIPE SB SANTA MONICA";"eSB";"0";"23";"0,00"
+"7015283";"ESF JAMIC";"POSTO DE SAUDE";"0001793314";"EQUIPE SB JAMIC";"eSB";"77";"1410";"5,50"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

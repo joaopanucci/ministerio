@@ -1,0 +1,22 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 15:40h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500280 / CARACOL
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"7500874";"ESF IRIA CONCEICAO ALVARENGA MENDES";"CENTRO DE SAUDE/UNIDADE BASICA";"0002045060";"EQUIPE DA SAUDE BUCAL IRIA";"eSB";"4";"645";"0,60"
+"2620138";"ESF LIDIANE DE OLIVEIRA GARDIN GALEANO";"CENTRO DE SAUDE/UNIDADE BASICA";"0002045095";"EQUIPE SAUDE BUCAL LIDIANE";"eSB";"16";"1242";"1,30"
+"2611937";"ESF CANDELARIA NUNES";"CENTRO DE SAUDE/UNIDADE BASICA";"0002045052";"EQUIPE SAUDE BUCAL CANDELARIA";"eSB";"37";"1615";"2,30"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

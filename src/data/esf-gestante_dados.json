@@ -1,0 +1,3348 @@
+{
+  "indicador": {
+    "codigo": "esf-gestante",
+    "nome": "Gestante e Puérpera",
+    "timestamp": "2025-10-30T22:18:13.309411"
+  },
+  "estatisticas": {
+    "total_municipios": 554,
+    "municipios_com_dados": 554,
+    "pontuacao_maxima": 91.0,
+    "pontuacao_minima": 0.0,
+    "pontuacao_media": 42.42967509025271
+  },
+  "dados_municipios": {
+    "265963": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.74,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265961": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "328013": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.16,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259141": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255946": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.72,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255843": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.82,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "261196": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.46,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "696775": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.33,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "600337": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.72,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255945": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.33,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255844": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.18,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237603": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "291984": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.78,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259149": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.83,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "698943": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.09,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "259148": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.04,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "662105": {
+      "nome": "Nome não identificado",
+      "pontuacao": 64.89,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "662545": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.86,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259940": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255877": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.33,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "625911": {
+      "nome": "Nome não identificado",
+      "pontuacao": 28.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237666": {
+      "nome": "Nome não identificado",
+      "pontuacao": 24.33,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237667": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237662": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.54,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237660": {
+      "nome": "Nome não identificado",
+      "pontuacao": 72.85,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "236142": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.85,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "695845": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.89,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271061": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.43,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271062": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.75,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "355328": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.95,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "267669": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.78,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "356957": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.43,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255891": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.64,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "415582": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.55,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "368453": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.14,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "588417": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.75,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "659291": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.22,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "631535": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.3,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "046749": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.13,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265967": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.89,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "236022": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.54,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265966": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.97,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "236020": {
+      "nome": "Nome não identificado",
+      "pontuacao": 57.4,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "560101": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.38,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "236021": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.67,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "631083": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "752587": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.83,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "324005": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.86,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "324006": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.8,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265968": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.39,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "706581": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.32,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "327674": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.33,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259138": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.37,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259139": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.43,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "713947": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.47,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253643": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.48,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253644": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.3,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237103": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.95,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237104": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.61,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237101": {
+      "nome": "Nome não identificado",
+      "pontuacao": 27.17,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "573459": {
+      "nome": "Nome não identificado",
+      "pontuacao": 27.32,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "577732": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.19,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "906058": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.38,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "549814": {
+      "nome": "Nome não identificado",
+      "pontuacao": 32.25,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "543519": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.6,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "652659": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.05,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237674": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237671": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.85,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237673": {
+      "nome": "Nome não identificado",
+      "pontuacao": 18.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "650705": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.43,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "664575": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.1,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271063": {
+      "nome": "Nome não identificado",
+      "pontuacao": 23.76,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271069": {
+      "nome": "Nome não identificado",
+      "pontuacao": 29.2,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237640": {
+      "nome": "Nome não identificado",
+      "pontuacao": 27.92,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271067": {
+      "nome": "Nome não identificado",
+      "pontuacao": 25.97,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271066": {
+      "nome": "Nome não identificado",
+      "pontuacao": 28.8,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "913046": {
+      "nome": "Nome não identificado",
+      "pontuacao": 26.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "267673": {
+      "nome": "Nome não identificado",
+      "pontuacao": 21.24,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "267674": {
+      "nome": "Nome não identificado",
+      "pontuacao": 27.38,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237636": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.56,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "641622": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.18,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "768752": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.59,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "567746": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.62,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271075": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.14,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259948": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.56,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "913924": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259936": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.8,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271073": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.45,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "492700": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.16,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253650": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.9,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237620": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.89,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "348838": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237621": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.06,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "469918": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.23,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237619": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237608": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.79,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "774527": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.59,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253656": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.75,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "637502": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.18,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "637500": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.54,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "637501": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.09,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253660": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.4,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253661": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.33,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001032": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.2,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "710805": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.71,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "901341": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.77,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "359820": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.91,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001016": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "709689": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.68,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "658561": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.84,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "998344": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.2,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "001027": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002445": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.67,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "002442": {
+      "nome": "Nome não identificado",
+      "pontuacao": 32.85,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "319827": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.13,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "944352": {
+      "nome": "Nome não identificado",
+      "pontuacao": 24.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "305135": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.53,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001041": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.45,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "030182": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.27,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "550615": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.21,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "331126": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.25,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001022": {
+      "nome": "Nome não identificado",
+      "pontuacao": 26.89,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "001033": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.33,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "001042": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.67,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "300569": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.57,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001028": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.92,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "998340": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.57,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002885": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "002434": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.13,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "002443": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.3,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "989827": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.92,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "673119": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.86,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "305137": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.35,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "287447": {
+      "nome": "Nome não identificado",
+      "pontuacao": 57.48,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002448": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002166": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001018": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.64,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001036": {
+      "nome": "Nome não identificado",
+      "pontuacao": 29.15,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "710800": {
+      "nome": "Nome não identificado",
+      "pontuacao": 32.9,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "709688": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.63,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002882": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.8,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "308002": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.71,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001021": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.29,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002878": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.24,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002444": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.93,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "305192": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "001020": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.29,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001023": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.42,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001031": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.12,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275253": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.35,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002165": {
+      "nome": "Nome não identificado",
+      "pontuacao": 82.0,
+      "cor": "#2e7d32",
+      "classificacao": "Muito Alto"
+    },
+    "902200": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.29,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "567236": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.88,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "302373": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.25,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001019": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.11,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "923024": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.59,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001015": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "710804": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "001017": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001030": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "001013": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "002446": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "328529": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.61,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "349964": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.13,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "001025": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.86,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "756883": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.9,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "567234": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.06,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002883": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002179": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "001014": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "002447": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.27,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "943991": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.17,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "333440": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.13,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "002167": {
+      "nome": "Nome não identificado",
+      "pontuacao": 64.0,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "001034": {
+      "nome": "Nome não identificado",
+      "pontuacao": 63.64,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "001029": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.56,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "336183": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.11,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "750087": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.13,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "261193": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.25,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "262013": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.35,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "341578": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259145": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.94,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237571": {
+      "nome": "Nome não identificado",
+      "pontuacao": 59.19,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237573": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.76,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237575": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.53,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237572": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.68,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253627": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.9,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237569": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.95,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "686151": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.15,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "754990": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.31,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255901": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.39,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "490160": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.93,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "695500": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.27,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "092798": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.02,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "793959": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.8,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237175": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.82,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "650428": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.9,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "260346": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.38,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "260345": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.04,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "669142": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.78,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "757317": {
+      "nome": "Nome não identificado",
+      "pontuacao": 29.79,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "658542": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.7,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237614": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.39,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259140": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.41,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "259155": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.67,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "609145": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.76,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255949": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.2,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "656407": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "783654": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.38,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237610": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.19,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "260347": {
+      "nome": "Nome não identificado",
+      "pontuacao": 18.67,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "919180": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.85,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255872": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237612": {
+      "nome": "Nome não identificado",
+      "pontuacao": 26.93,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "659020": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "732010": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.67,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "014863": {
+      "nome": "Nome não identificado",
+      "pontuacao": 29.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237651": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.58,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "045646": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253667": {
+      "nome": "Nome não identificado",
+      "pontuacao": 26.74,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "304377": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253668": {
+      "nome": "Nome não identificado",
+      "pontuacao": 27.04,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "267679": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.12,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255892": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.57,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "318246": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.92,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237578": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255894": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.73,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255904": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.07,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275257": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.12,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "248268": {
+      "nome": "Nome não identificado",
+      "pontuacao": 29.65,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "049197": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.94,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "333825": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.52,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "248264": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.32,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "907312": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.71,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275254": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.55,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255854": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.57,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255857": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.38,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255855": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255882": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.65,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "084305": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.33,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "800557": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "680657": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.67,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "259153": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.33,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "259151": {
+      "nome": "Nome não identificado",
+      "pontuacao": 23.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "755182": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259152": {
+      "nome": "Nome não identificado",
+      "pontuacao": 28.3,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253671": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253670": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.8,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271085": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.39,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271111": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.74,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271112": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.89,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "559259": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.81,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "323983": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.05,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271105": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.71,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271110": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.53,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271100": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.8,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271088": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.23,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271114": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.41,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271087": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "376807": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.15,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "748910": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271086": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.14,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "983766": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.65,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271109": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.93,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "694355": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.59,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "348915": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.45,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271098": {
+      "nome": "Nome não identificado",
+      "pontuacao": 61.29,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "271104": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.19,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "682292": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.56,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "559261": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.02,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "397792": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.86,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271083": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.94,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271089": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.82,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "539880": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.29,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "559260": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.19,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "680362": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.67,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271113": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.34,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271081": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.43,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271116": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.69,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271107": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.02,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "259995": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.22,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259994": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.61,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "422189": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.91,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "539506": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "367043": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.21,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255850": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.27,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259938": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.17,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255846": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.69,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259939": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.06,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253673": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.43,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "729081": {
+      "nome": "Nome não identificado",
+      "pontuacao": 57.92,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "923671": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.05,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237650": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.73,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "903569": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.31,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255871": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.71,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237622": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.36,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255888": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.27,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "651045": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.81,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "429952": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "260330": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237433": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.48,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "248259": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.63,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "534224": {
+      "nome": "Nome não identificado",
+      "pontuacao": 60.89,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "253677": {
+      "nome": "Nome não identificado",
+      "pontuacao": 32.83,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253681": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "719538": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.32,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253680": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.62,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265148": {
+      "nome": "Nome não identificado",
+      "pontuacao": 30.83,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "236143": {
+      "nome": "Nome não identificado",
+      "pontuacao": 64.0,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "236144": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "236099": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.15,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "684802": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.67,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "726117": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.22,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "236145": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.71,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255864": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.74,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259718": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.03,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255865": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "267684": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.75,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "464983": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.1,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "700949": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.83,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255863": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.75,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "488691": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.59,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "411513": {
+      "nome": "Nome não identificado",
+      "pontuacao": 32.65,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "978308": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.35,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237120": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.8,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237118": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237114": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "267656": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.94,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237115": {
+      "nome": "Nome não identificado",
+      "pontuacao": 68.5,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "622009": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.54,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "743968": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.59,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "678465": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "751183": {
+      "nome": "Nome não identificado",
+      "pontuacao": 28.78,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237438": {
+      "nome": "Nome não identificado",
+      "pontuacao": 64.0,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "237439": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.56,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "265146": {
+      "nome": "Nome não identificado",
+      "pontuacao": 17.17,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237638": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.37,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237642": {
+      "nome": "Nome não identificado",
+      "pontuacao": 69.0,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "559795": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.62,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "918061": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.67,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "353162": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.87,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255869": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.34,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "264680": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.89,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "262014": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.67,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "801141": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "271068": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.24,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "711159": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.36,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "756068": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.13,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271074": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.6,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "672145": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.55,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "924155": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.77,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "314732": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.8,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "248253": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.09,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "248254": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.22,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "747731": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.64,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "678499": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.11,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "247062": {
+      "nome": "Nome não identificado",
+      "pontuacao": 58.04,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "530483": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.62,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "535135": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.91,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "750648": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.78,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "247064": {
+      "nome": "Nome não identificado",
+      "pontuacao": 57.44,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "247065": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.16,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "264689": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.47,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "775243": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.82,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "383376": {
+      "nome": "Nome não identificado",
+      "pontuacao": 73.0,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "777607": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "917727": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "471750": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.18,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237602": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "707260": {
+      "nome": "Nome não identificado",
+      "pontuacao": 58.95,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "450590": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.14,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271064": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.44,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "942484": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.81,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "728014": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.39,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "346356": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.63,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237431": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.85,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253684": {
+      "nome": "Nome não identificado",
+      "pontuacao": 57.82,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "741770": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.6,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237428": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "289287": {
+      "nome": "Nome não identificado",
+      "pontuacao": 58.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "565751": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.43,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237425": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.06,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "701842": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.98,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "596652": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.23,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "532280": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.72,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "312601": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "800556": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.68,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "754578": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.47,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237426": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.47,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "700187": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.14,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255868": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.81,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "991283": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.63,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "709966": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.75,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237634": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.25,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "261195": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.2,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "267687": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.18,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "505868": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "248258": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.31,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "399674": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "571942": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.17,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "942473": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.88,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "741958": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.22,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "668929": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "248251": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.51,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "388103": {
+      "nome": "Nome não identificado",
+      "pontuacao": 30.7,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "666923": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.78,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "318895": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.07,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "261203": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.63,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "261204": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.3,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "018794": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.43,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "261205": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "261206": {
+      "nome": "Nome não identificado",
+      "pontuacao": 62.39,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "260037": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "438817": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "261207": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.43,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259944": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.12,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "264683": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.83,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "305034": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253641": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "592705": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "305023": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "305027": {
+      "nome": "Nome não identificado",
+      "pontuacao": 32.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253640": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "305031": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.67,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "300542": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.6,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "271058": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.05,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "271059": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.4,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "723347": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "719156": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.83,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "719261": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "267688": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.2,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237697": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.63,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "900347": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.1,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "236100": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.56,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259946": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.97,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "099840": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.48,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "383049": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.28,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265155": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.76,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "568323": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.48,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "938791": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.04,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265152": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.9,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "728198": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.94,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "907506": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "904284": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.55,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "265157": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.2,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "597191": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.16,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "265156": {
+      "nome": "Nome não identificado",
+      "pontuacao": 33.33,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "587017": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.16,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "591119": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.51,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "236101": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.56,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "638458": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.67,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "392697": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.12,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "446101": {
+      "nome": "Nome não identificado",
+      "pontuacao": 47.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "009316": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.39,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237641": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.21,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253694": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.12,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253692": {
+      "nome": "Nome não identificado",
+      "pontuacao": 91.0,
+      "cor": "#2e7d32",
+      "classificacao": "Muito Alto"
+    },
+    "253695": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.71,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "748777": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.06,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "454418": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.73,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253698": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.12,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "388756": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.95,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "761368": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.62,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "732309": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.06,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "280449": {
+      "nome": "Nome não identificado",
+      "pontuacao": 91.0,
+      "cor": "#2e7d32",
+      "classificacao": "Muito Alto"
+    },
+    "308528": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.12,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "386565": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.42,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "280450": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.38,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "672704": {
+      "nome": "Nome não identificado",
+      "pontuacao": 57.25,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "280451": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "280452": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "280453": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.92,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "439454": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.9,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237690": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.24,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "393430": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.25,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237441": {
+      "nome": "Nome não identificado",
+      "pontuacao": 27.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253699": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.73,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "253700": {
+      "nome": "Nome não identificado",
+      "pontuacao": 18.67,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237590": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.57,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259996": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "677025": {
+      "nome": "Nome não identificado",
+      "pontuacao": 28.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237591": {
+      "nome": "Nome não identificado",
+      "pontuacao": 28.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237699": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237606": {
+      "nome": "Nome não identificado",
+      "pontuacao": 54.15,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "744191": {
+      "nome": "Nome não identificado",
+      "pontuacao": 26.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "745601": {
+      "nome": "Nome não identificado",
+      "pontuacao": 27.67,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "301070": {
+      "nome": "Nome não identificado",
+      "pontuacao": 14.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "662516": {
+      "nome": "Nome não identificado",
+      "pontuacao": 28.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237110": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.5,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237111": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.0,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "992161": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.64,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "504043": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.83,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "635661": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.52,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237084": {
+      "nome": "Nome não identificado",
+      "pontuacao": 57.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237087": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "576777": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "512172": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.18,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "513460": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.94,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237088": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.36,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "771772": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.23,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237083": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "267653": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.41,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "395919": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259142": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.86,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "259154": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.13,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "744112": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.15,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237691": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.41,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "777531": {
+      "nome": "Nome não identificado",
+      "pontuacao": 34.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "323645": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.86,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237693": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "237096": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.12,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "259937": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.94,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237097": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.14,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "340096": {
+      "nome": "Nome não identificado",
+      "pontuacao": 39.26,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "597105": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.3,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "237099": {
+      "nome": "Nome não identificado",
+      "pontuacao": 40.36,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "733321": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.61,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "259135": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.95,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "237098": {
+      "nome": "Nome não identificado",
+      "pontuacao": 43.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "700208": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.85,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "568338": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.2,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "261198": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.35,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "749845": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255859": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.41,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "504578": {
+      "nome": "Nome não identificado",
+      "pontuacao": 41.25,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "701528": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.22,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "533713": {
+      "nome": "Nome não identificado",
+      "pontuacao": 36.44,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "480671": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.5,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "267655": {
+      "nome": "Nome não identificado",
+      "pontuacao": 31.31,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "552918": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.8,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "464324": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.2,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "275707": {
+      "nome": "Nome não identificado",
+      "pontuacao": 35.18,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "275709": {
+      "nome": "Nome não identificado",
+      "pontuacao": 53.55,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275716": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.12,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275704": {
+      "nome": "Nome não identificado",
+      "pontuacao": 64.0,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "275711": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.3,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275706": {
+      "nome": "Nome não identificado",
+      "pontuacao": 42.91,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275713": {
+      "nome": "Nome não identificado",
+      "pontuacao": 0.0,
+      "cor": "#c8e6c9",
+      "classificacao": "Muito Baixo"
+    },
+    "275712": {
+      "nome": "Nome não identificado",
+      "pontuacao": 55.39,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "961594": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.47,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "634386": {
+      "nome": "Nome não identificado",
+      "pontuacao": 56.83,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275705": {
+      "nome": "Nome não identificado",
+      "pontuacao": 49.93,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275708": {
+      "nome": "Nome não identificado",
+      "pontuacao": 61.5,
+      "cor": "#388e3c",
+      "classificacao": "Alto"
+    },
+    "939069": {
+      "nome": "Nome não identificado",
+      "pontuacao": 52.71,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275710": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.0,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "954333": {
+      "nome": "Nome não identificado",
+      "pontuacao": 45.13,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "275714": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.65,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "345376": {
+      "nome": "Nome não identificado",
+      "pontuacao": 51.96,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "255833": {
+      "nome": "Nome não identificado",
+      "pontuacao": 37.7,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "260336": {
+      "nome": "Nome não identificado",
+      "pontuacao": 38.14,
+      "cor": "#a5d6a7",
+      "classificacao": "Baixo"
+    },
+    "255879": {
+      "nome": "Nome não identificado",
+      "pontuacao": 48.53,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "931834": {
+      "nome": "Nome não identificado",
+      "pontuacao": 46.82,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "253582": {
+      "nome": "Nome não identificado",
+      "pontuacao": 44.37,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    },
+    "398937": {
+      "nome": "Nome não identificado",
+      "pontuacao": 50.74,
+      "cor": "#66bb6a",
+      "classificacao": "Médio"
+    }
+  },
+  "cores_legenda": {
+    "muito_alto": "#2e7d32",
+    "alto": "#388e3c",
+    "medio": "#66bb6a",
+    "baixo": "#a5d6a7",
+    "muito_baixo": "#c8e6c9",
+    "sem_dados": "#e0e0e0"
+  }
+}

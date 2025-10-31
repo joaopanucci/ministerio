@@ -1,0 +1,321 @@
+/* ========== CONFIGURAÇÕES GERAIS ========== */
+/* Aplica box-sizing globalmente para facilitar o layout */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f9fb; /* Fundo claro para a página */
+  color: #333; /* Cor de texto padrão */
+  margin: 0;
+  padding-bottom: 80px; /* Garante espaço para o footer fixo e maior */
+  line-height: 1.6; /* Espaçamento entre linhas para melhor legibilidade */
+}
+
+h1,
+h2 {
+  color: #004d40; /* Um tom de verde escuro para títulos */
+  margin-bottom: 10px;
+  margin-top: 20px; /* Adiciona um pouco de margem superior para separar seções */
+}
+
+p {
+  margin-bottom: 15px; /* Espaçamento padrão para parágrafos */
+}
+
+/* Estilo para links em geral (se houver, além dos botões) */
+a {
+  color: #00796b;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #004d40;
+}
+
+/* ========== CONTAINERS PRINCIPAIS ========== */
+.container {
+  max-width: 960px; /* Limita a largura máxima do conteúdo para melhor leitura */
+  margin: 20px auto; /* Centraliza o container e adiciona margem vertical */
+  padding: 1.5rem;
+  background-color: #ffffff; /* Fundo branco para os cards de conteúdo */
+  border-radius: 8px; /* Cantos arredondados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil para profundidade */
+  text-align: center; /* Centraliza o texto dentro dos containers */
+}
+
+/* Ajustes específicos para títulos e parágrafos dentro de .container */
+.container h1 {
+  margin-top: 0; /* Remove margem superior do primeiro h1 dentro do container */
+  margin-bottom: 15px;
+  color: #004d40;
+}
+
+.container p {
+  color: #555;
+  text-align: center;
+}
+
+/* Estilo para listas na seção "Sobre o Mapa" */
+/* Como o seu HTML tem <li> solto, o ideal seria envolvê-los em <ul> ou <ol>.
+   Para fins de estilo, vou assumir que eles estarão em uma <ul>. */
+.container ul {
+  list-style-type: none; /* Remove marcadores padrão */
+  padding-left: 0;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: left; /* Alinha o texto das listas à esquerda */
+  display: inline-block; /* Permite que o ul se ajuste ao conteúdo e seja centralizado */
+}
+
+.container ul li {
+  position: relative;
+  padding-left: 25px; /* Espaço para o marcador customizado */
+  margin-bottom: 8px;
+  color: #000000;
+}
+
+.container ul li::before {
+    content: '•'; /* Marcador personalizado */
+  position: absolute;
+  left: 0;
+  color: #000000; /* Cor do marcador */
+  font-size: 1.1em;
+}
+
+/* ========== ÁREA DE FILTROS ========== */
+.filters {
+  display: flex;
+  flex-direction: column; /* Itens empilhados verticalmente */
+  gap: 20px; /* Espaço entre os elementos */
+  margin-top: 25px;
+  align-items: center; /* Centraliza os itens horizontalmente */
+}
+
+.form-group {
+  width: 100%;
+  max-width: 300px;
+  text-align: left; /* Alinha todo o grupo à esquerda */
+}
+
+.filters label {
+  display: block;
+  font-weight: 600;
+  color: #004d40;
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+
+.filters select {
+  padding: 12px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 15px;
+  background-color: #ffffff;
+  width: 100%; /* Ocupa toda a largura disponível */
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  appearance: none; /* Remove a seta padrão do select em alguns navegadores */
+  background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23004d40%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13.6-6.4H19.6c-5.8%200-11.3%203.4-13.6%206.4-5.4%207.8-1.4%2017.7%204.6%2023.6l126.3%20126.3c4.8%204.8%2011.8%207.6%2019%207.6s14.2-2.8%2019-7.6l126.3-126.3c6-5.9%209.9-15.8%204.6-23.6z%22%2F%3E%3C%2Fsvg%3E'); /* Seta customizada */
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 14px;
+  padding-right: 40px; /* Garante espaço para a seta */
+}
+
+.filters select:focus {
+  border-color: #009688;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 150, 136, 0.1);
+}
+
+.filters select:hover {
+  border-color: #009688;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 10px;
+}
+
+/* ========== BOTÕES ========== */
+#apply-filters {
+  background-color: #009688;
+  color: white;
+  border: none;
+  padding: 14px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 16px;
+  width: 100%;
+  transition: all 0.3s ease;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+#apply-filters:hover {
+  background-color: #00796b;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 150, 136, 0.3);
+}
+
+#apply-filters:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 10px rgba(0, 150, 136, 0.2);
+}
+
+#go-to-map {
+  display: block;
+  background-color: #2196f3;
+  color: white;
+  padding: 14px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+#go-to-map:hover {
+  background-color: #1976d2;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(33, 150, 243, 0.3);
+  color: white;
+}
+
+#go-to-map:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 10px rgba(33, 150, 243, 0.2);
+}
+
+
+/* ========== RODAPÉ ========== */
+.footer-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #777777; /* Fundo escuro para o rodapé */
+  color: white;
+  text-align: center;
+  padding: 20px 0; /* Mais padding vertical para o footer */
+  box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.15); /* Sombra mais pronunciada na parte superior */
+  z-index: 1000; /* Garante que o footer fique acima de outros conteúdos */
+}
+
+.footer-container h2 {
+  color: #000000;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.footer-container p {
+  color: #ffffff; /* Um verde claro para o texto do rodapé */
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.footer-container ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 15px 0;
+  display: flex; /* Para organizar os colaboradores horizontalmente */
+  justify-content: center;
+  flex-wrap: wrap; /* Permite quebrar linha em telas menores */
+}
+
+.footer-container li {
+  margin: 5px 15px; /* Espaçamento entre os itens da lista de colaboradores */
+  font-size: 15px;
+  color: #eee;
+}
+
+/* ========== MEDIA QUERIES (Responsividade) ========== */
+@media (max-width: 768px) {
+  .container {
+    margin: 15px auto;
+    padding: 1rem;
+    border-radius: 5px;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
+
+  .filters {
+    gap: 10px;
+  }
+
+  .form-group,
+  .button-group {
+    max-width: 90%; /* Ajusta a largura máxima para se adequar melhor a telas menores */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer-container {
+    padding: 15px 0;
+    font-size: 13px;
+  }
+
+  .footer-container ul {
+    flex-direction: column; /* Coloca os itens da lista de colaboradores em coluna */
+    align-items: center; /* Centraliza os itens */
+  }
+
+  .footer-container li {
+    margin: 3px 0; /* Ajusta a margem para lista vertical */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding-bottom: 100px; /* Mais espaço para o footer em telas muito pequenas */
+  }
+
+  .container {
+    margin: 10px auto;
+    padding: 0.8rem;
+    box-shadow: none; /* Remove sombra em telas muito pequenas para um visual mais clean */
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.2em;
+  }
+
+  p {
+      font-size: 0.9em;
+  }
+
+  .form-group,
+  .button-group {
+    max-width: 95%; /* Quase largura total */
+  }
+
+  .footer-container {
+    padding: 10px 0;
+    font-size: 12px;
+  }
+}

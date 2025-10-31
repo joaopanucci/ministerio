@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 15:53h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500515 / JUTI
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"2710684";"UNIDADE DE SAUDE DE FAMILIA DE JUTI";"CENTRO DE SAUDE/UNIDADE BASICA";"0002303183";"EQUIPE DE SAUDE BUCAL URBANA";"eSB";"0";"2813";"0,00"
+"8011419";"UNIDADE DE SAUDE DA FAMILIA RURAL JUTI";"CENTRO DE SAUDE/UNIDADE BASICA";"0002303205";"EQUIPE SAUDE BUCAL RURAL";"eSB";"4";"363";"1,10"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

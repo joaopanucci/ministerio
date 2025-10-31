@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 10 de outubro de 2025 - 11:32h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500510 / JATEÍ
+
+Filtro:
+Indicador: Mais Acesso à Atenção Primária à Saúde
+Competência selecionada: AGO/25
+Tipo de Equipe: eAP, eSF
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO TOTAL DE ATENDIMENTOS POR DEMANDA PROGRAMADA;NÚMERO TOTAL DE ATENDIMENTOS POR TODOS OS TIPOS DE DEMANDAS (ESPONTÂNEAS E PROGRAMADAS);PONTUAÇÃO
+"2646803";"UNIDADE DE SAUDE DA FAMILIA GLEBA NOVA ESPERANCA";"CENTRO DE SAUDE/UNIDADE BASICA";"0000442909";"AREA RURAL";"eSF";"0";"2377";"0,00"
+"2620146";"UNIDADE DE SAUDE DA FAMILIA DE JATEI";"CENTRO DE SAUDE/UNIDADE BASICA";"0000442895";"AREA URBANA";"eSF";"332";"4286";"7,75"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

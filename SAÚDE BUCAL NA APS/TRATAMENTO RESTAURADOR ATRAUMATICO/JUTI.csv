@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 15 de outubro de 2025 - 08:23h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500515 / JUTI
+
+Filtro:
+Indicador: Tratamento Restaurador Atraumático na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE ATENDIMENTOS COM PROCEDIMENTOS RESTAURADORES ATRAUMÁTICOS (ART) REALIZADOS;NÚMERO TOTAL DE ATENDIMENTOS COM PROCEDIMENTOS RESTAURADORES REALIZADOS;PONTUAÇÃO
+"2710684";"UNIDADE DE SAUDE DE FAMILIA DE JUTI";"CENTRO DE SAUDE/UNIDADE BASICA";"0002303183";"EQUIPE DE SAUDE BUCAL URBANA";"eSB";"0";"220";"0,00"
+"8011419";"UNIDADE DE SAUDE DA FAMILIA RURAL JUTI";"CENTRO DE SAUDE/UNIDADE BASICA";"0002303205";"EQUIPE SAUDE BUCAL RURAL";"eSB";"123";"445";"27,60"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 10 de outubro de 2025 - 11:37h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500640 / PEDRO GOMES
+
+Filtro:
+Indicador: Mais Acesso à Atenção Primária à Saúde
+Competência selecionada: AGO/25
+Tipo de Equipe: eAP, eSF
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO TOTAL DE ATENDIMENTOS POR DEMANDA PROGRAMADA;NÚMERO TOTAL DE ATENDIMENTOS POR TODOS OS TIPOS DE DEMANDAS (ESPONTÂNEAS E PROGRAMADAS);PONTUAÇÃO
+"2676885";"UNIDADE SAUDE DA FAMILIA DO CENTRO DE SAUDE";"CENTRO DE SAUDE/UNIDADE BASICA";"0000443891";"PSF - CENTRO";"eSF";"278";"4422";"6,29"
+"2376970";"UNIDADE SAUDE DA FAMILIA VILA MARCELINO";"CENTRO DE SAUDE/UNIDADE BASICA";"0000443875";"PSF - VILAS";"eSF";"188";"4093";"4,59"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

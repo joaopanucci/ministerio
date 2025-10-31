@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 15:56h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500580 / NIOAQUE
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"2376342";"UNIDADE DE SAUDE FAMILIA UIRAPURU";"CENTRO DE SAUDE/UNIDADE BASICA";"0001795570";"EQUIPE PSF UIRAPURU";"eSB";"41";"825";"5,00"
+"2611953";"UNIDADE DE SAUDE DA FAMILIA COLONIA CONCEICAO";"CENTRO DE SAUDE/UNIDADE BASICA";"0001795368";"EQUIPE PSF COLONIA CONCEICAO";"eSB";"55";"1560";"3,50"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

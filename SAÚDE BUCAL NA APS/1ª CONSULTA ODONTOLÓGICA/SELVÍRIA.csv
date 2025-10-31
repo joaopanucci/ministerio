@@ -1,0 +1,22 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 16:05h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500780 / SELVÍRIA
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"2371111";"UNIDADE BASICA DE SAUDE CELIO MOURA DA SILVA";"CENTRO DE SAUDE/UNIDADE BASICA";"0001963880";"ESB CELIO MOURA DA SILVA";"eSB";"115";"3011";"3,80"
+"6625169";"ESF III ESTRETEGIA DA FAMILIA RURAL";"CENTRO DE SAUDE/UNIDADE BASICA";"0001964011";"ESB RURAL";"eSB";"16";"2398";"0,70"
+"2371103";"UNIDADE SAUDE DA FAMILIA GUADALUPE";"CENTRO DE SAUDE/UNIDADE BASICA";"0001963996";"EQUIPE SAUDE BUCAL GUADALUPE";"eSB";"0";"2099";"0,00"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

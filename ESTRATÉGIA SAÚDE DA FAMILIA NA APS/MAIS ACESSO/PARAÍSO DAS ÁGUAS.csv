@@ -1,0 +1,22 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 10 de outubro de 2025 - 11:36h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500627 / PARAÍSO DAS ÁGUAS
+
+Filtro:
+Indicador: Mais Acesso à Atenção Primária à Saúde
+Competência selecionada: AGO/25
+Tipo de Equipe: eAP, eSF
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO TOTAL DE ATENDIMENTOS POR DEMANDA PROGRAMADA;NÚMERO TOTAL DE ATENDIMENTOS POR TODOS OS TIPOS DE DEMANDAS (ESPONTÂNEAS E PROGRAMADAS);PONTUAÇÃO
+"7233477";"POSTO DE SAUDE OLI GARCIA LEAL";"CENTRO DE SAUDE/UNIDADE BASICA";"0002270277";"EAP OLI GARCIA LEAL";"eAP";"2";"408";"0,49"
+"7191561";"ESF ARISTOTELES GARCIA VIDA";"CENTRO DE SAUDE/UNIDADE BASICA";"0000443662";"ESF PARAISO DAS AGUAS";"eSF";"9595";"9855";"97,36"
+"7192614";"POSTO DE SAUDE ROBERTO ARAUJO DOS SANTOS";"CENTRO DE SAUDE/UNIDADE BASICA";"0002270285";"EAP ROBERTO ARAUJO DOS SANTOS";"eAP";"795";"1243";"63,96"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

@@ -1,0 +1,24 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 14 de outubro de 2025 - 14:19h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500800 / TERENOS
+
+Filtro:
+Indicador: Taxa de exodontias na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO TOTAL DE EXODONTIAS REALIZADAS;NÚMERO DE TOTAL DE PROCEDIMENTOS INDIVIDUAIS PREVENTIVOS, CURATIVOS E EXODONTIAS REALIZADAS;PONTUAÇÃO
+"5337135";"ESF VILA JAMIL";"POSTO DE SAUDE";"0001800957";"EQUIPE SB JAMIL";"eSB";"63";"1626";"3,90"
+"2676559";"ESF VILA FERREIRA";"POSTO DE SAUDE";"0001800639";"EQUIPE SB FERREIRA";"eSB";"69";"2188";"3,20"
+"5045789";"ESF PATAGONIA";"POSTO DE SAUDE";"0001780301";"EQUIPE SB PATAGONIA";"eSB";"194";"1871";"10,40"
+"5529182";"ESF SANTA MONICA";"POSTO DE SAUDE";"0001794973";"EQUIPE SB SANTA MONICA";"eSB";"3";"23";"13,00"
+"7015283";"ESF JAMIC";"POSTO DE SAUDE";"0001793314";"EQUIPE SB JAMIC";"eSB";"71";"1410";"5,00"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

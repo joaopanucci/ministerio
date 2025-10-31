@@ -1,0 +1,21 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 16:05h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500770 / SETE QUEDAS
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"6356613";"ESF VILA DA PAZ";"CENTRO DE SAUDE/UNIDADE BASICA";"0002021536";"EQUIPE SAUDE BUCAL VILA DA PAZ";"eSB";"9";"2964";"0,30"
+"5040434";"PSF VILA DAS MARIAS";"CENTRO DE SAUDE/UNIDADE BASICA";"0002021595";"EQUIPE SAUDE BUCAL VILA MARIA";"eSB";"5";"2583";"0,20"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

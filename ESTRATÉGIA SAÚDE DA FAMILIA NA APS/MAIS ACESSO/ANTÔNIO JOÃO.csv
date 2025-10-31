@@ -1,0 +1,22 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 10 de outubro de 2025 - 11:19h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500090 / ANTÔNIO JOÃO
+
+Filtro:
+Indicador: Mais Acesso à Atenção Primária à Saúde
+Competência selecionada: AGO/25
+Tipo de Equipe: eAP, eSF
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO TOTAL DE ATENDIMENTOS POR DEMANDA PROGRAMADA;NÚMERO TOTAL DE ATENDIMENTOS POR TODOS OS TIPOS DE DEMANDAS (ESPONTÂNEAS E PROGRAMADAS);PONTUAÇÃO
+"2710617";"ESF BRUM DE OLIVEIRA";"CENTRO DE SAUDE/UNIDADE BASICA";"0000438022";"ESF BRUM DE OLIVEIRA";"eSF";"15";"5090";"0,29"
+"2710625";"ESF SALVANI SIMPLICIO FREITAS";"CENTRO DE SAUDE/UNIDADE BASICA";"0000438030";"ESF SALVANI SIMPLICIO FREITAS";"eSF";"250";"7235";"3,46"
+"3553280";"ESF ROSA MEIRE LINO";"CENTRO DE SAUDE/UNIDADE BASICA";"0000438049";"ESF ROSA MEIRE LINO";"eSF";"2";"5485";"0,04"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar

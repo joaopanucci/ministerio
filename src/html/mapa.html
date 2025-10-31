@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Visualização interativa dos indicadores de saúde do Mato Grosso do Sul">
+    <meta name="keywords" content="mapa, indicadores, saúde, Mato Grosso do Sul, SES-MS">
+    <meta name="author" content="Secretaria de Estado de Saúde - MS">
+    <title>Mapa de Indicadores - Mato Grosso do Sul</title>
+    <link rel="stylesheet" href="../css/mapa.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav-container">
+            <a id="back-to-filters" href="filtros.html" class="back-button">
+                ← Voltar para Filtros
+            </a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section id="mapa-indicadores">
+            <h1>Mapa de Indicadores do Mato Grosso do Sul</h1>
+            <p>Visualização interativa dos indicadores de saúde por região.</p>
+            
+            <div id="mapa-container">
+                <!-- Aqui será renderizado o mapa -->
+                <div class="mapa-placeholder">
+                    <p>Carregando mapa...</p>
+                </div>
+            </div>
+            
+            <div id="legenda-container">
+                <h2>Legenda</h2>
+                <div class="legenda-items">
+                    <!-- Itens da legenda serão preenchidos via JavaScript -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="../js/mapa.js"></script>
+</body>
+</html>

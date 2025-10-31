@@ -1,0 +1,22 @@
+Ministério da Saúde MS
+Secretaria de Atenção Primária à Saúde SAPS
+Sistema de Informação para a Atenção Primária à Saúde – SIAPS
+Dado gerado em: 13 de outubro de 2025 - 15:59h
+Relatório Qualidade - Visão por Competência
+
+Dados Sócio Demográficos:
+UF: MS
+Município: 500635 / PARANHOS
+
+Filtro:
+Indicador: 1ª Consulta Odontológica programada na APS
+Competência selecionada: AGO/25
+Tipo de Equipe: eSB
+
+CNES;ESTABELECIMENTO;TIPO DO ESTABELECIMENTO;INE;NOME DA EQUIPE;SIGLA DA EQUIPE;NÚMERO DE PRIMEIRAS CONSULTAS ODONTOLÓGICAS PROGRAMADAS REALIZADAS;POPULAÇÃO DE PARÂMETRO DA ESF/EAP;PONTUAÇÃO
+"2710587";"PROGRAMA DE SAUDE DA FAMILIA URBANO VILA NOVA";"CENTRO DE SAUDE/UNIDADE BASICA";"0002135582";"ESF VILA NOVA";"eSB";"14";"2470";"0,60"
+"3005429";"PROGRAMA DE SAUDE DA FAMILIA URBANA CENTRO";"CENTRO DE SAUDE/UNIDADE BASICA";"0002135566";"ESF CENTRO";"eSB";"6";"2223";"0,30"
+"2710595";"PROGRAMA SAUDE DA FAMILIA RURAL";"CENTRO DE SAUDE/UNIDADE BASICA";"0002135574";"ESF RURAL";"eSB";"15";"997";"1,50"
+
+Fonte: Sistema de Informação para a Atenção Primária à Saúde - SIAPS
+Dado preliminar
